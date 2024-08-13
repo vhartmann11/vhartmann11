@@ -22,12 +22,6 @@ Apaixonado por tecnologia desde muito cedo!
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 
-
-
-## 🚀 Meus projetos
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhartmann11&layout=compact&theme=tokyonight)
 
 ![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhartmann11&show_icons=true&hide_title=false&hide=prs&count_private=true&hide_border=true&theme=tokyonight)
