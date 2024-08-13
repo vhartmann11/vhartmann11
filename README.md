@@ -4,7 +4,7 @@ Um desenvolvedor Front-End Júnior empenhado em criar <br/> interfaces únicas e
 <br/><br/>
 Apaixonado por tecnologia desde muito cedo!
 
-Portfolio: https://vhartdev.vercel.app/
+Portfolio: <a target="_blank"> https://vhartdev.vercel.app/ </a>
 <br/>
 <br/>
 
